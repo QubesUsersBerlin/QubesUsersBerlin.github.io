@@ -2,7 +2,7 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
-<img src="https://github.com/QubesOS/qubes-attachment/raw/master/icons/qubes-community-event/qubes-community-event.svg" align="center" width="200">
+<img src="https://github.com/QubesOS/qubes-attachment/raw/master/icons/qubes-community-event/qubes-community-event.png" align="center" width="200">
 
 # Monthly meetings
 
