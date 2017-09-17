@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Qubes Users Berlin
 
-You can use the [editor on GitHub](https://github.com/QubesUsersBerlin/QubesUsersBerlin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are a Berlin-based [Qubes OS](https://www.qubes-os.org) users who meet monthly. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Monthly meetings
 
-### Markdown
+We meet at [f2a](https://twitter.com/f2a_space), a hackerspace at [Finowstr. 2a](https://www.openstreetmap.org/node/4476779422) in Friedrichshain.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Next meeting
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Monday September 18, 19:00
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Future meetings
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QubesUsersBerlin/QubesUsersBerlin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```
+Monday October 23, 19:00
+Monday November 20, 19:00
+```
