@@ -19,4 +19,4 @@ Monday October 23, 19:00
 Monday November 20, 19:00
 ```
 
-<img src="https://github.com/QubesOS/qubes-attachment/raw/master/icons/qubes-community-event/qubes-community-event.png" align="center" width="200">
+<img src="https://github.com/QubesOS/qubes-attachment/raw/master/icons/qubes-community-event/qubes-community-event.png" align="center" width="100">
