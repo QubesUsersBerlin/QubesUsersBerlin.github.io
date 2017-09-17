@@ -1,6 +1,6 @@
-## Welcome to Qubes Users Berlin
+## Welcome to Qubes Users Berlin!
 
-We are a Berlin-based [Qubes OS](https://www.qubes-os.org) users who meet monthly. 
+We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
 # Monthly meetings
 
@@ -18,3 +18,5 @@ Monday September 18, 19:00
 Monday October 23, 19:00
 Monday November 20, 19:00
 ```
+
+![Qubes Community Event logo](https://github.com/QubesOS/qubes-attachment/blob/master/icons/qubes-community-event/qubes-community-event.svg)
