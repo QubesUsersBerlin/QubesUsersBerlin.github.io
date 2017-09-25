@@ -9,14 +9,19 @@ We meet at [f2a](https://twitter.com/f2a_space), a hackerspace at [Finowstr. 2a]
 ## Next meeting
 
 ```
-Monday September 18, 19:00
+Monday October 23, 19:00
 ```
 
 ## Future meetings
 
 ```
-Monday October 23, 19:00
 Monday November 20, 19:00
 ```
+
+## Mailing list
+
+We have a mailing list if you'd like to join:
+
+https://www.autistici.org/mailman/listinfo/qub
 
 <img src="https://github.com/QubesOS/qubes-attachment/raw/master/icons/qubes-community-event/qubes-community-event.png" align="center" width="200">
