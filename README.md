@@ -20,8 +20,6 @@ Monday November 20, 19:00
 
 ## Mailing list
 
-We have a mailing list if you'd like to join:
-
-https://www.autistici.org/mailman/listinfo/qub
+You are welcome to join our [mailing list](https://www.autistici.org/mailman/listinfo/qub), where we announce meetings and discuss items.
 
 <img src="https://github.com/QubesOS/qubes-attachment/raw/master/icons/qubes-community-event/qubes-community-event.png" align="center" width="200">
