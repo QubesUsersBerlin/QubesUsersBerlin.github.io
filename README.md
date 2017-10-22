@@ -9,13 +9,13 @@ We meet at [f2a](https://twitter.com/f2a_space), a hackerspace at [Finowstr. 2a]
 ## Next meeting
 
 ```
-Monday October 23, 19:00
+Monday November 20, 19:00
 ```
 
 ## Future meetings
 
 ```
-Monday November 20, 19:00
+Monday December 18, 19:00
 ```
 
 ## Mailing list
