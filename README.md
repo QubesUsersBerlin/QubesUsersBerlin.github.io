@@ -4,7 +4,7 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Monthly meetings
 
-We meet at [f2a](https://twitter.com/f2a_space), a hackerspace at [Finowstr. 2a](https://www.openstreetmap.org/node/4476779422) in Friedrichshain.
+We meet every third Monday of the month at [f2a](https://twitter.com/f2a_space), a hackerspace at [Finowstr. 2a](https://www.openstreetmap.org/node/4476779422) in Friedrichshain.
 
 ## Next meeting
 
