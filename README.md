@@ -9,14 +9,14 @@ We meet every third Monday of the month at [f2a](https://f2a.space/), a hackersp
 ## Next meeting
 
 ```
-Monday March 19, 19:00
+Monday June 18, 19:00
 ```
 
 ## Future meetings
 
 ```
-Monday April 16, 19:00
-Monday May 21, 19:00
+Monday July 16, 19:00
+Monday August 20, 19:00
 ```
 
 ## Mailing list
