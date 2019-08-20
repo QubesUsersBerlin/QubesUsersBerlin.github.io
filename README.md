@@ -24,6 +24,6 @@ You are welcome to join our [mailing list](https://www.autistici.org/mailman/lis
 
 ## Code of conduct
 
-The meeting is covered by Qubes OS [Code of Conduct](https://qubes-os.org/code-of-conduct). 
+The meeting is covered by Qubes OS [Code of Conduct](https://qubes-os.org/code-of-conduct) and [Berlin Code of Conduct](https://berlincodeofconduct.org/). 
 
 <img src="https://github.com/QubesOS/qubes-attachment/raw/master/icons/qubes-community-event/qubes-community-event.png" align="center" width="200">
