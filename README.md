@@ -9,13 +9,13 @@ We meet every third Tuesday of the month at [xHain](https://x-hain.de/de/page/ca
 ## Next meeting
 
 ```
-Tuesday August 20, 19:00
+Tuesday September 17, 19:00
 ```
 
 ## Future meetings
 
 ```
-Tuesday September 20, 19:00
+Tuesday October 15, 19:00
 ```
 
 ## Mailing list
