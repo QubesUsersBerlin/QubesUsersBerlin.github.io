@@ -4,20 +4,17 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Monthly meetings
 
-We meet every third Tuesday of the month at [xHain](https://x-hain.de/de/page/calendar/), a hackerspace at **Grünberger Str. 16** in Friedrichshain.
-
-*Starting 2020 we meet every second Tuesday of the month.*
+We meet every **second** Tuesday of the month at [xHain](https://x-hain.de/de/page/calendar/), a hackerspace at **Grünberger Str. 16** in Friedrichshain.
 
 ## Next meeting
 
 ```
-Tuesday December 17, 19:00
-```
+Tuesday January 14, 19:00```
 
 ## Future meetings
 
 ```
-Tuesday January 14, 19:00
+Tuesday February 11, 19:00
 ```
 
 ## Mailing list
