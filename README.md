@@ -1,7 +1,7 @@
 ## Welcome to Qubes Users Berlin!
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
-13.30 - 14.00
+
 # Monthly meetings
 
 We meet every **second** Tuesday of the month at [xHain](https://x-hain.de/de/page/calendar/), a hackerspace at **Grünberger Str. 16** in Friedrichshain.
