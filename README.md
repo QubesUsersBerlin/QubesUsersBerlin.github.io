@@ -9,13 +9,13 @@ We meet every **second** Tuesday of the month at [xHain](https://x-hain.de/de/pa
 ## Next meeting
 
 ```
-Tuesday February 11, 19:00
+Tuesday March 10, 19:00
 ```
 
 ## Future meetings
 
 ```
-Tuesday March 10, 19:00
+Tuesday April 14, 19:00
 ```
 
 
