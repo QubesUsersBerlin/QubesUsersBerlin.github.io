@@ -9,13 +9,13 @@ We meet every **second** Tuesday of the month at [xHain](https://x-hain.de/de/pa
 ## Next meeting
 
 ```
-Tuesday March 10, 19:00
+postponed until coronavirus pandemic is over and xHain re-opens
 ```
 
 ## Future meetings
 
 ```
-Tuesday April 14, 19:00
+postponed until coronavirus pandemic is over and xHain re-opens
 ```
 
 
