@@ -9,13 +9,13 @@ We meet every **second** Tuesday of the month at [xHain](https://x-hain.de/de/pa
 ## Next meeting
 
 ```
-postponed until coronavirus pandemic is over and xHain re-opens
+We met virtually until the coronavirus pandemic is over and xHain re-opens
 ```
 
 ## Future meetings
 
 ```
-postponed until coronavirus pandemic is over and xHain re-opens
+We met virtually until the coronavirus pandemic is over and xHain re-opens
 ```
 
 
