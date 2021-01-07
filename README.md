@@ -4,18 +4,22 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Monthly meetings
 
-We meet every **second** Tuesday of the month at [xHain](https://x-hain.de/de/page/calendar/), a hackerspace at **Grünberger Str. 16** in Friedrichshain.
+We virtually meet every **second** Tuesday of the month.
+
+Pre-pandemic we met at [xHain](https://x-hain.de/de/page/calendar/), a hackerspace at **Grünberger Str. 16** in Friedrichshain.
+
+We will met virtually until the coronavirus pandemic is over and xHain re-opens.
 
 ## Next meeting
 
 ```
-We met virtually until the coronavirus pandemic is over and xHain re-opens
+(virtual) Tuesday January 12 19:30
 ```
 
 ## Future meetings
 
 ```
-We met virtually until the coronavirus pandemic is over and xHain re-opens
+(virtual) Tuesday February 9 19:30
 ```
 
 
