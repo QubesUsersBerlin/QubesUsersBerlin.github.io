@@ -13,13 +13,13 @@ We will met virtually until the coronavirus pandemic is over and xHain re-opens.
 ## Next meeting
 
 ```
-(virtual) Tuesday January 12 19:30
+(virtual) Tuesday March 9 19:30
 ```
 
 ## Future meetings
 
 ```
-(virtual) Tuesday February 9 19:30
+(virtual) Tuesday April 13 19:30
 ```
 
 
