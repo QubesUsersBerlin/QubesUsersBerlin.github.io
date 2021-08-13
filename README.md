@@ -17,8 +17,8 @@ Tuesday September 14 19:30
 ## Future meetings
 
 ```
-(virtual) Tuesday October 12 19:30
-(virtual) Tuesday November 9 19:30
+Tuesday October 12 19:30
+Tuesday November 9 19:30
 ```
 
 
