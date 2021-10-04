@@ -11,13 +11,12 @@ We meet at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at 
 ## Next meeting
 
 ```
-Tuesday September 14 19:00
+Tuesday October 12 19:00
 ```
 
 ## Future meetings
 
 ```
-Tuesday October 12 19:00
 Tuesday November 9 19:00
 ```
 
