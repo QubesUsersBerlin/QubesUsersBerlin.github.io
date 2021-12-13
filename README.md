@@ -19,6 +19,7 @@ Tuesday December 14 20:00 - online!
 ## Future meetings
 
 ```
+Tuesday January 11 19:30 - in-person? online? who knows!
 ```
 
 
