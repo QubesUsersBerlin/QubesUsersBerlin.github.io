@@ -8,18 +8,16 @@ We meet every **second** Tuesday of the month.
 
 We normally meet at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at **Grünberger Str. 16** in Friedrichshain. We abide by xHain's [hygiene concept](https://wiki.x-hain.de/de/xHain/hygiene-konzept).
 
-Because of current temporary strict hygiene controls, we will meet online for December. please join the mailing list to get the meeting link.
-
 ## Next meeting
 
 ```
-Tuesday December 14 20:00 - online!
+Tuesday April 12 19:30 - in-person!!!
 ```
 
 ## Future meetings
 
 ```
-Tuesday January 11 19:30 - in-person? online? who knows!
+Tuesday May 10 19:30
 ```
 
 
