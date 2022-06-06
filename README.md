@@ -4,7 +4,7 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Monthly meetings
 
-We meet every **second** Tuesday of the month.
+We meet every **second** Tuesday of each month.
 
 We normally meet at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at **Grünberger Str. 16** in Friedrichshain. We abide by xHain's [hygiene concept](https://wiki.x-hain.de/de/xHain/hygiene-konzept).
 
