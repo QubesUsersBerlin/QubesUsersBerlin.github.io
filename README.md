@@ -10,17 +10,15 @@ We normally meet at [xHain](https://x-hain.de/de/participate/#content), a hacker
 
 ## Next meeting
 
-```
-Tuesday June 14 19:30
-```
+`Tuesday August 9 19:30`
 
 ## Future meetings
 
-```
-Tuesday July 12 19:30
-Tuesday August 9 19:30
-```
+`Tuesday September 13 19:30` - not sure will happen given Sept 9-11 is [Qubes Summit](https://qubesos.3mdeb.com)!
 
+`Tuesday October 11 19:30`
+
+`Tuesday November 8 19:30`
 
 ## Mailing list
 
