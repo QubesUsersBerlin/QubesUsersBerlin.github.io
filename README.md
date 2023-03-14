@@ -10,13 +10,13 @@ We normally meet at [xHain](https://x-hain.de/de/participate/#content), a hacker
 
 ## Next meeting
 
-`Tuesday February 14 19:30`
+`Tuesday March 14 19:30`
 
 ## Future meetings
 
-`Tuesday March 14 19:30`
+`Tuesday April 11 19:30`
 
-`Tuesday April 14 19:30`
+`Tuesday May 9 19:30`
 
 ## Mailing list
 
