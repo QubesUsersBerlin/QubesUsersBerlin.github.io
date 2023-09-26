@@ -4,19 +4,17 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Monthly meetings
 
-We meet every **second** Tuesday of each month.
+**Qubes Users Berlin monthly meetings are currently on hiatus.**
 
-We normally meet at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at **Grünberger Str. 16** in Friedrichshain. We abide by xHain's [hygiene concept](https://wiki.x-hain.de/de/xHain/hygiene-konzept).
+We used to meet every **second** Tuesday of each month at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at **Grünberger Str. 16** in Friedrichshain. We abide by xHain's [hygiene concept](https://wiki.x-hain.de/de/xHain/hygiene-konzept).
 
 ## Next meeting
 
-`Tuesday August 8 19:30`
+**Qubes Users Berlin monthly meetings are currently on hiatus.**
 
 ## Future meetings
 
-`Tuesday September 12 19:30`
-
-`Tuesday October 10 19:30`
+**Qubes Users Berlin monthly meetings are currently on hiatus.**
 
 ## Mailing list
 
