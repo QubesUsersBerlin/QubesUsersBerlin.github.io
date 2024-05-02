@@ -12,7 +12,7 @@ We will meet every **last** Friday of each month at [xHain](https://x-hain.de/de
 
 ## Next meeting
 
-**Next meeting is scheduled for Friday, the 31. 05. 2024 from 6 till 8 p.m. .**
+**Next meeting is scheduled for Friday, the 31. 05. 2024 from 6 till 8 p.m. **
 
 The topic for the coming meeting will be published here on this site in the following weeks.
 
@@ -21,7 +21,7 @@ The topic for the coming meeting will be published here on this site in the foll
 
 **Qubes Users Berlin monthly meetings are currently every last Friday of each month!**
 
-We look forward to welcoming you and discussing topics related to Qubes OS with you! :) 
+We look forward to discussing topics related to Qubes OS with you! :) 
 
 A small presentation/discussion on different topics is planned for every meeting. 
 
