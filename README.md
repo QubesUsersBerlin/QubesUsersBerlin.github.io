@@ -4,17 +4,27 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Monthly meetings
 
-**Qubes Users Berlin monthly meetings are currently on hiatus.**
+**Qubes Users Berlin monthly meetings are back on track!**
 
-We used to meet every **second** Tuesday of each month at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at **Grünberger Str. 16** in Friedrichshain. We abide by xHain's [hygiene concept](https://wiki.x-hain.de/de/xHain/hygiene-konzept).
+We will meet every **last** Friday of each month at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at **Grünberger Str. 16** in Friedrichshain. We abide by xHain's [hygiene concept](https://wiki.x-hain.de/de/xHain/hygiene-konzept).
 
 ## Next meeting
 
-**Qubes Users Berlin monthly meetings are currently on hiatus.**
+**Qubes Users Berlin next meeting is scheduled for Friday, the 31st of May from 6 p.m. till 8 p.m. .**
+
+The topic for the coming meeting will be published here on this site in the following weeks.
+
 
 ## Future meetings
 
-**Qubes Users Berlin monthly meetings are currently on hiatus.**
+**Qubes Users Berlin monthly meetings are currently every last Friday of each month**
+We are happy to welcome you and discuss topics of Qubes OS interest with you! :)
+A small presentation/discussion on different topics is planned for every meeting. 
+
+If you are interested and want to present something related to Qubes OS yourself,
+please don't hesitate and write us an email! 
+
+Stay tuned! 
 
 ## Mailing list
 
