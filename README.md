@@ -12,7 +12,7 @@ We will meet every **last** Friday of each month at [xHain](https://x-hain.de/de
 
 ## Next meeting
 
-**Next meeting is scheduled for Friday, the 31. 05. 2024 from 6 till 8 p.m. **
+**Next meeting is scheduled for Friday, the 26. 07. 2024 from 6 till 8 p.m. **
 
 The topic for the coming meeting will be published here on this site in the following weeks.
 
