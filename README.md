@@ -2,19 +2,21 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
+
+# Current meeting
+
+**Next meeting is scheduled for Friday, the 29. 08. 2024 from 6 till 8 p.m. As of this time the meeting will occur remotely. **
+
+The topic for the coming meeting will be 'Qubes OS from a beginner's perspective, part 1'.
+
+Please consult the calendar of x-hain for further information.
+
+
 # Monthly meetings
 
 **Qubes Users Berlin monthly meetings are back on track!**
 
 We will meet every **last** Friday of each month at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at **Grünberger Str. 16** in Friedrichshain. We abide by xHain's [hygiene concept](https://wiki.x-hain.de/de/xHain/hygiene-konzept).
-
-
-
-## Next meeting
-
-**Next meeting is scheduled for Friday, the 26. 07. 2024 from 6 till 8 p.m. **
-
-The topic for the coming meeting will be published here on this site in the following weeks.
 
 
 ## Future meetings
