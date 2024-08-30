@@ -7,7 +7,7 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 **Next meeting is scheduled for Friday, the 27. 09. 2024 from 6 till 8 p.m. at x-hain. **
 
-The topic for next meeting will still be 'Qubes OS from a beginner's perspective, part 1' & handson installation and beginner user experience with Qubes OS.
+The topic for next meeting will still be 'Qubes OS from a beginner's perspective, part 1' & handson installation and beginner's user experience with Qubes OS.
 
 All are welcome!
 
