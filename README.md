@@ -5,7 +5,7 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Next meeting
 
-**Next meeting is scheduled for Friday, the 25. 10. 2024 from 6 till 8 p.m. at x-hain. **
+**Next meeting is scheduled for Friday, the 25. 10. 2024 from 6 till 8 p.m. at x-hain.**
 
 The topics for next meeting are two this time as experienced the last meeting :)
 
