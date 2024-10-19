@@ -10,7 +10,7 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 The topics for next meeting are two this time as experienced the last meeting :)
 
 1. 'Qubes OS from a beginner's perspective' & handson installation and/or trying Qubes OS with a provided laptop.
-2. 'Qubes and Salt'
+2. 'Salting Qubes'
  
 All are welcome!
 
