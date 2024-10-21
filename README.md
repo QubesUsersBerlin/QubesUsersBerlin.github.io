@@ -41,6 +41,10 @@ Stay tuned!
 
 You are welcome to join our [mailing list](https://www.autistici.org/mailman/listinfo/qub), where we announce meetings and discuss items.
 
+## Social media
+
+If you wish, you can connect with us on [bluesky](https://bsky.app/profile/qubes-users-berlin.bsky.social) and [mastodon](https://mastodon.social/@qubes_users_berlin).
+
 ## Code of conduct
 
 The meeting is covered by Qubes OS [Code of Conduct](https://qubes-os.org/code-of-conduct) and [Berlin Code of Conduct](https://berlincodeofconduct.org/). 
