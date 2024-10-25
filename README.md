@@ -11,7 +11,7 @@ The topics for next meeting are two this time as experienced the last meeting :)
 
 1. 'Qubes OS from a beginner's perspective' & handson installation and/or trying Qubes OS with a provided laptop.
 2. Qubes OS documentation Markdown to reStructuredText
-3. Whatever you would like to share and discuss, bring your own ![Q](./qubes-logo-grain.png) uestions!
+3. Whatever you would like to share and discuss, bring your own ![Q](./qubes-logo-grain2.png) uestions!
    
 All are welcome!
 
