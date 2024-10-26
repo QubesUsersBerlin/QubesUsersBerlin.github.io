@@ -12,9 +12,7 @@ The topics for next meeting are two this time as experienced the last meeting :)
 - "Exploring Qubes OS: A Beginner's Perspective" – Join us for a hands-on experience where you can install and test Qubes OS on a provided laptop. Perfect for newcomers looking to dive into the world of secure computing!
 - OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
 - Qubes OS documentation conversion from Markdown to reStructuredText - Join us for a status update and Q&A
-- Whatever you would like to share and discuss!
-
-  Bring your own ![Q](./qubes-logo-grain2.png) uestions! :)
+- Whatever you would like to share and discuss! Bring your own ![Q](./qubes-logo-grain2.png) uestions! :)
    
 All are welcome!
 
