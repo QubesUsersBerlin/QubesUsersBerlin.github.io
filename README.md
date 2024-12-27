@@ -5,13 +5,10 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Next meeting
 
-**Next meeting is scheduled for Friday, the 29. 11. 2024 from 6 till 8 p.m. at x-hain.**
+**Next meeting is scheduled for Friday, the 27. 12. 2024 from 6 till 8 p.m. at x-hain assembly at 3c38**
 
-The topics for next meeting are two this time as experienced the last meeting :)
-
-- "Exploring Qubes OS: A Beginner's Perspective" – Join us for a hands-on experience where you can install and test Qubes OS on a provided laptop. Perfect for newcomers looking to dive into the world of secure computing!
-- OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
-- Qubes OS documentation conversion from Markdown to reStructuredText - Join us for a status update and Q&A
+The topics for today's meeting are straightforward :) 
+- year-end retrospective: What were your primary focuses regarding Qubes OS in 2024? What insights did you gain?
 - Whatever you would like to share and discuss! Bring your own ![Q](./qubes-logo-grain2.png) uestions! :)
    
 All are welcome!
