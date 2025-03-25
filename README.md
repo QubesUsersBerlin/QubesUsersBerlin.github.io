@@ -13,6 +13,7 @@ Here are some proposed topics for the meetup:
 - OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
 - Qubes OS documentation conversion from Markdown to reStructuredText - Join us for a status update and Q&A
 - Android Use Cases in Qubes OS - Continuing the engaging discussion from our last meetup :)
+- Salted site-specific browser qubes! 
 - Whatever you would like to share and discuss! Bring your own ![Q](./qubes-logo-grain2.png) uestions! :)
    
 All are welcome!
