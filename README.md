@@ -2,35 +2,48 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
+# Next meetup
 
-# Next meeting
+**Next meetup is scheduled for Friday, the 25.4.2025 from 6 till 8 p.m. at x-hain**
 
-**Next meeting is scheduled for Friday, the 28. 3. 2025 from 6 till 8 p.m. at x-hain**
+Here are some topics we want to discuess - a continuation from March:
 
-Here are some proposed topics for the meetup:
+- Salt Use Cases in Qubes OS
+- Android Use Cases in Qubes OS and in particular emulating GrapheneOS
+
+and the evergreens:
 
 - Exploring Qubes OS: A Beginner's Perspective – Join us for a hands-on experience where you can install and test Qubes OS on a provided laptop. Perfect for newcomers looking to dive into the world of secure computing!
-- OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
 - Qubes OS documentation conversion from Markdown to reStructuredText - Join us for a status update and Q&A
-- Android Use Cases in Qubes OS - Continuing the engaging discussion from our last meetup :)
-- Salted site-specific browser qubes! 
 - Whatever you would like to share and discuss! Bring your own ![Q](./qubes-logo-grain2.png) uestions! :)
-   
-All are welcome!
+
+All creatures welcome!
 
 Please consult the calendar of x-hain for further information.
 
+# Future meetups
+
+In Mai, we want to discuss
+
+- OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
+
+
+# Past meetups
+
+## 28.3.2025
+
+We looked at some Salt and Android use cases in Qubes OS:
+
+- Salted site-specific browser qubes!
+  - Corey talked about salting a web qube and also shared his [repo](https://github.com/coyotebush/qubes-salt)! We will continue the discussion in April!
+- Android Use Cases in Qubes OS
+  - We continued the engaging discussion from our last meetup. snorkelcake and bae9e4f7 wrote a guide for how to setup an android qube which is available on the [forum](https://forum.qubes-os.org/t/use-android-apps-in-qubesos/32971).
 
 # Monthly meetings
 
-**Qubes Users Berlin monthly meetings are back on track!**
+**Qubes Users Berlin monthly meetings are currently every last Friday of each month!**
 
 We will meet every **last** Friday of each month at [xHain](https://x-hain.de/de/participate/#content), a hackerspace at **Grünberger Str. 16** in Friedrichshain. We abide by xHain's [hygiene concept](https://wiki.x-hain.de/de/xHain/hygiene-konzept).
-
-
-## Future meetings
-
-**Qubes Users Berlin monthly meetings are currently every last Friday of each month!**
 
 We look forward to discussing topics related to Qubes OS with you! :) 
 
