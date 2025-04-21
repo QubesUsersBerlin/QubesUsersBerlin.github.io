@@ -6,7 +6,7 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 **Next meetup is scheduled for Friday, the 25.4.2025 from 6 till 8 p.m. at x-hain**
 
-Here are some topics we want to discuess - a continuation from March:
+Here are some topics we want to discuss - a continuation from March:
 
 - Salt Use Cases in Qubes OS
 - Android Use Cases in Qubes OS and in particular emulating GrapheneOS
