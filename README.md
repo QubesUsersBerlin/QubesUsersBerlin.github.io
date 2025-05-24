@@ -4,14 +4,9 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Next meetup
 
-**Next meetup is scheduled for Friday, the 25.4.2025 from 6 till 8 p.m. at x-hain**
+**Next meetup is scheduled for Friday, the 30.5.2025 from 6 till 8 p.m. at x-hain**
 
-Here are some topics we want to discuss - a continuation from March:
-
-- Salt Use Cases in Qubes OS
-- Android Use Cases in Qubes OS and in particular emulating GrapheneOS
-
-and the evergreens:
+Topics TBD, apart from the evergreens:
 
 - Exploring Qubes OS: A Beginner's Perspective – Join us for a hands-on experience where you can install and test Qubes OS on a provided laptop. Perfect for newcomers looking to dive into the world of secure computing!
 - Qubes OS documentation conversion from Markdown to reStructuredText - Join us for a status update and Q&A
@@ -23,12 +18,22 @@ Please consult the calendar of x-hain for further information.
 
 # Future meetups
 
-In Mai, we want to discuss
+In June we want to discuss
 
 - OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
 
 
 # Past meetups
+
+
+## 25.4.2025
+
+We did discuss some pretty cool topics: preloaded disposable qubes, salted site-specific browser qubes & Android in Qubes OS:
+
+1. We got a peak into a very exciting Qubes OS feature in development by [Ben](https://github.com/ben-grande) - [preloaded disposable qubes](https://github.com/QubesOS/qubes-issues/issues/1512)
+2. Salted site-specific browser qubes revisited by Corey [see](https://github.com/coyotebush/qubes-salt/tree/web) 
+3. Discussion & further collaborations on site regarding Android on Qubes OS inspired by the forum [post](https://forum.qubes-os.org/t/use-android-apps-in-qubesos/32971) by norkelcake and bae9e4f7 
+4. GrapheneOS - apart from syncing the repo and building for emulator nothing much :) wip - play with kernel parameters with the notable warning that this disregards security features. GrapheneOS Team has [plans](https://grapheneos.social/@GrapheneOS/113185686714810236) though :)
 
 ## 28.3.2025
 
