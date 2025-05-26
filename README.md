@@ -6,7 +6,12 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 **Next meetup is scheduled for Friday, the 30.5.2025 from 6 till 8 p.m. at x-hain**
 
-Topics TBD, apart from the evergreens:
+Topics:
+
+- Give i3 a try with an example setup 
+- All the topics from April
+
+and the evergreens:
 
 - Exploring Qubes OS: A Beginner's Perspective – Join us for a hands-on experience where you can install and test Qubes OS on a provided laptop. Perfect for newcomers looking to dive into the world of secure computing!
 - Qubes OS documentation conversion from Markdown to reStructuredText - Join us for a status update and Q&A
