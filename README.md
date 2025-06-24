@@ -4,14 +4,9 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Next meetup
 
-**Next meetup is scheduled for Friday, the 30.5.2025 from 6 till 8 p.m. at x-hain**
+**Next meetup is scheduled for Friday, the 27.6.2025 from 6 till 8 p.m. at x-hain**
 
-Topics:
-
-- Give i3 a try with an example setup 
-- All the topics from April
-
-and the evergreens:
+This time there is no special topic planned except the evergreens and free discussions:
 
 - Exploring Qubes OS: A Beginner's Perspective – Join us for a hands-on experience where you can install and test Qubes OS on a provided laptop. Perfect for newcomers looking to dive into the world of secure computing!
 - Qubes OS documentation conversion from Markdown to reStructuredText - Join us for a status update and Q&A
@@ -23,12 +18,19 @@ Please consult the calendar of x-hain for further information.
 
 # Future meetups
 
-In June we want to discuss
+In July we want to discuss
 
 - OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
+- Android in Qubes OS cont'd
 
 
 # Past meetups
+
+## 27.5.2025
+
+- Give i3 a try with an example setup 
+
+Sinni talked about their setup with a follow up discussion <3 !
 
 
 ## 25.4.2025
