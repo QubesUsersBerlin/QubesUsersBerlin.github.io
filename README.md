@@ -4,12 +4,12 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Next meetup
 
-**Next meetup is scheduled for Friday, the 27.6.2025 from 6 till 8 p.m. at x-hain**
+**Next meetup is scheduled for Friday, the 27.7.2025 from 6 till 8 p.m. at x-hain**
 
 This time there is no special topic planned except the evergreens and free discussions:
 
 - Exploring Qubes OS: A Beginner's Perspective – Join us for a hands-on experience where you can install and test Qubes OS on a provided laptop. Perfect for newcomers looking to dive into the world of secure computing!
-- Qubes OS documentation conversion from Markdown to reStructuredText - Join us for a status update and Q&A
+- Qubes OS documentation conversion from Markdown to reStructuredText - Testing Phase is coming up! Join us for a status update and Q&A
 - Whatever you would like to share and discuss! Bring your own ![Q](./qubes-logo-grain2.png) uestions! :)
 
 All creatures welcome!
@@ -18,13 +18,34 @@ Please consult the calendar of x-hain for further information.
 
 # Future meetups
 
-In July we want to discuss
+In future meetups we want to discuss
 
 - OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
 - Android in Qubes OS cont'd
 
 
 # Past meetups
+
+## 27.6.2025
+
+Some of the topics include:
+
+- Deep dive into **preloaded disposable qubes** with a demo of the development environment by Ben
+- With two new issues raised following the discussion and conversation:
+  - [Issue 10026](https://github.com/QubesOS/qubes-issues/issues/10026)
+  - [Issue 10027](https://github.com/QubesOS/qubes-issues/issues/10027)
+- Exploring **Qubes RPC policies** and **qrexec source code**
+- Background and refresher on **Qubes RPC policies** and **Qubes Admin API**:
+  - [Qrexec: secure communication across domains](https://www.qubes-os.org/doc/qrexec/)
+  - [Qrexec: Qubes RPC internals](https://www.qubes-os.org/doc/qrexec-internals/)
+  - [Qubes Admin API](https://www.qubes-os.org/doc/admin-api/)
+  - [Forum Thread](https://forum.qubes-os.org/t/how-to-use-the-qubes-admin-polcies-api-despite-the-lack-of-documentation-wip/29863)
+
+and some useful tools like:
+
+  - qubes-policy-editor
+  - qubes-policy-editor-gui (dom0)
+  - [vim-qrexec plugin](https://github.com/ben-grande/vim-qrexec)
 
 ## 27.5.2025
 
