@@ -4,7 +4,7 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Next meetup
 
-**Next meetup is scheduled for Friday, the 27.7.2025 from 6 till 8 p.m. at x-hain**
+**Next meetup is scheduled for Friday, the 25.7.2025 from 6 till 8 p.m. at x-hain**
 
 This time there is no special topic planned except the evergreens and free discussions:
 
