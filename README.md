@@ -4,12 +4,12 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Next meetup
 
-**Next meetup is scheduled for Friday, the 25.7.2025 from 6 till 8 p.m. at x-hain**
+**Next meetup is scheduled for Friday, the 31.10.2025 from 6 till 8 p.m. at x-hain**
 
 This time there is no special topic planned except the evergreens and free discussions:
 
 - Exploring Qubes OS: A Beginner's Perspective – Join us for a hands-on experience where you can install and test Qubes OS on a provided laptop. Perfect for newcomers looking to dive into the world of secure computing!
-- Qubes OS documentation conversion from Markdown to reStructuredText - Testing Phase is coming up! Join us for a status update and Q&A
+- Qubes OS documentation localization
 - Whatever you would like to share and discuss! Bring your own ![Q](./qubes-logo-grain2.png) uestions! :)
 
 All creatures welcome!
