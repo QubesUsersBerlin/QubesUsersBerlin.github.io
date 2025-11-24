@@ -8,6 +8,12 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 Except the evergreens and free discussions, feel free to reach out or just drop by and talk about your favourite topic of ![Q](./qubes-logo-grain2.png) ubes OS interes! :)
 
+Current topics include:
+
+- Introducing Qubes OS: A beginner’s perspective and a hands-on experience
+- Whonix templating in Qubes OS - tips & tricks
+- Qubes OS documentation localization
+
 All creatures welcome!
 
 Please consult the calendar of x-hain for further information.
