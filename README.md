@@ -4,19 +4,23 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # Next meetup
 
-**Next meetup is scheduled for Friday, the 28.11.2025 from 6 till 8 p.m. at x-hain**
+**Next meetup is scheduled for X, the 2X.12.2025 at [39c3](https://events.ccc.de/congress/2025/infos/index.html).**
 
-Except the evergreens and free discussions, feel free to reach out or just drop by and talk about your favourite topic of ![Q](./qubes-logo-grain2.png) ubes OS interes! :)
+**Further details will be announced later this week! Stay tuned!**
 
-Current topics include:
+Except the evergreens and free discussions, 
 
+feel free to reach out or just drop by and talk about your favourite topic of 
+
+![Q](./qubes-logo-grain2.png) ubes OS interest! :)
+
+Some topics for the meeting could be:
+
+- 2025 in Qubes: What were your topics regarding Qubes OS in 2025? What insights did you gain and would like to share?
 - Introducing Qubes OS: A beginner’s perspective and a hands-on experience
-- Whonix templating in Qubes OS - tips & tricks
-- Qubes OS documentation localization
+- Whatever you would like to share and discuss! Bring your own Questions!
 
 All creatures welcome!
-
-Please consult the calendar of x-hain for further information.
 
 # Future meetups
 
