@@ -2,9 +2,9 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
-# Next meetup
+# December Qubes OS meetup
 
-**Next meetup is scheduled for X, the 2X.12.2025 at [39c3](https://events.ccc.de/congress/2025/infos/index.html).**
+**This December the meetup is scheduled for Monday, the 29.12.2025 starting 00:30 at [39c3](https://events.ccc.de/congress/2025/infos/index.html), SoS Lecture 6.** (still Day 2!)
 
 **Further details will be announced later this week! Stay tuned!**
 
@@ -14,11 +14,14 @@ feel free to reach out or just drop by and talk about your favourite topic of
 
 ![Q](./qubes-logo-grain2.png) ubes OS interest! :)
 
-Some topics for the meeting could be:
+Some topics for the meetup:
 
-- 2025 in Qubes: What were your topics regarding Qubes OS in 2025? What insights did you gain and would like to share?
+- 2025 in Qubes :D
+- Qubes OS 4.3
 - Introducing Qubes OS: A beginner’s perspective and a hands-on experience
-- Whatever you would like to share and discuss! Bring your own Questions!
+- Whatever you would like to share and discuss! Bring your own
+
+![Q](./qubes-logo-grain2.png) uestions!
 
 All creatures welcome!
 
