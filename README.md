@@ -6,14 +6,6 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 **This December the meetup is scheduled for Monday, the 29.12.2025 starting 00:30 at [39c3](https://events.ccc.de/congress/2025/infos/index.html), SoS Lecture 6.** (still Day 2!)
 
-**Further details will be announced later this week! Stay tuned!**
-
-Except the evergreens and free discussions, 
-
-feel free to reach out or just drop by and talk about your favourite topic of 
-
-![Q](./qubes-logo-grain2.png) ubes OS interest! :)
-
 Some topics for the meetup:
 
 - 2025 in Qubes :D
@@ -23,7 +15,7 @@ Some topics for the meetup:
 
 ![Q](./qubes-logo-grain2.png) uestions!
 
-All creatures welcome!
+All creatures welcome! <3
 
 # Future meetups
 
