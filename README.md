@@ -66,7 +66,7 @@ The meetup was led by @marmarek and @marmarta <3 with interesting discussions:
   - A good starting point would be testing, reviewing and/or [fixing minor issues](https://github.com/QubesOS/qubes-issues/issues?q=state%3Aopen%20label%3A%22good%20first%20issue%22)
   - For more advanced contributors, perhaps [this](https://github.com/QubesOS/qubes-issues/issues/6661) will be of interest :)
   - Or look at the `Backlog` or `Ready` columns of [Current team tasks](https://github.com/orgs/QubesOS/projects/19/views/2) and leave a comment if you are interested
-  - Improve and/or write [documentation](https://github.com/QubesOS/qubes-doc/) ([usefule guidelines](https://doc.qubes-os.org/en/latest/developer/general/how-to-edit-the-rst-documentation.html))
+  - Improve and/or write [documentation](https://github.com/QubesOS/qubes-doc/) ([useful guidelines](https://doc.qubes-os.org/en/latest/developer/general/how-to-edit-the-rst-documentation.html))
   - General [contributing guidelines](https://doc.qubes-os.org/en/latest/introduction/contributing.html)
 
 - "modern" suspend (S0ix, s2idle) debugging hint: look at `/sys/kernel/debug/pmc_core/substate_requirements`; enable `s2idle` via `qvm-features dom0 suspend-s0ix 1` and reboot
