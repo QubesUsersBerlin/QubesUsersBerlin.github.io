@@ -95,7 +95,6 @@ and some useful tools like:
 
 Sinni talked about their setup with a follow up discussion <3 !
 
-
 ## 25.4.2025
 
 We did discuss some pretty cool topics: preloaded disposable qubes, salted site-specific browser qubes & Android in Qubes OS:
