@@ -2,20 +2,20 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
-# December Qubes OS meetup
+# 30.1.2026 Qubes OS meetup
 
-**This December the meetup is scheduled for Monday, the 29.12.2025 starting 00:30 at [39c3](https://events.ccc.de/congress/2025/infos/index.html), SoS Lecture 6.** (still Day 2!)
+**Next meetup is scheduled for Friday, the 30.1.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
 
 Some topics for the meetup:
 
-- 2025 in Qubes :D
-- Qubes OS 4.3
-- Introducing Qubes OS: A beginner’s perspective and a hands-on experience
+- TBD
 - Whatever you would like to share and discuss! Bring your own
 
 ![Q](./qubes-logo-grain2.png) uestions!
 
 All creatures welcome! <3
+
+Please consult the calendar of x-hain for further information.
 
 # Future meetups
 
@@ -27,7 +27,48 @@ In future meetups we want to discuss
 
 # Past meetups
 
+## 29.12.2025
+
+The meetup was led by @marmarek and @marmarta <3 with interesting discussions:
+
+- Overview of Qubes OS
+- Diving into the features of Qubes OS 4.3, as well as useful tooling:
+ - Preloaded disposable VMs
+ - QWT support
+ - Seamless mode supported for Windows 10
+ - Forensics in disposabe qubes: setting the `ephemeral` config option using
+
+   ```
+   Command 'config':
+  usage: qvm-volume config [--verbose] [--quiet] [--help]
+                           VM:VOLUME property value
+   ```
+
+   you can run the specific dispvm exclusively in RAM.
+
+   `rw` config option for a specific volume is also useful:
+
+   ```
+   Command 'config':
+  usage: qvm-volume config [--verbose] [--quiet] [--help]
+                           VM:VOLUME property value
+   ```
+  You can verify with `qvm-volume info`, and the default config value for the particular lvm thin pool, f.ex. `qvm-pool info <LVM_THIN_POOL>`
+
+ - Ansible support and future development planned
+ - Continued Salt support for Qubes retained
+- [wyng-util-qubes](https://codeberg.org/tasket/wyng-util-qubes) also for 4.3
+- [Qubes Video Companion](https://github.com/QubesOS/qubes-video-companion)
+- On the question of how to help out <3:
+ - A good starting point would be testing, reviewing and/or [fixing minor issues](https://github.com/QubesOS/qubes-issues/issues?q=state%3Aopen%20label%3A%22good%20first%20issue%22)
+ - For more advanced contributors, perhaps [this](https://github.com/QubesOS/qubes-issues/issues/6661) will be of interest :)
+ - Or look at the `Backlog` or `Ready` columns of [Current team tasks](https://github.com/orgs/QubesOS/projects/19/views/2) and leave a comment if you are interested
+ - Improve and/or write [documentation](https://github.com/QubesOS/qubes-doc/), ([usefule guidelines](https://doc.qubes-os.org/en/latest/developer/general/how-to-edit-the-rst-documentation.html))
+ - General [contributing guidelines](https://doc.qubes-os.org/en/latest/introduction/contributing.html)
+- "modern" suspend (S0ix, s2idle) debugging hint: look at `/sys/kernel/debug/pmc_core/substate_requirements`; enable `s2idle` via `qvm-features dom0 suspend-s0ix 1` and reboot
+
 ## 27.6.2025
+
 
 Some of the topics include:
 
