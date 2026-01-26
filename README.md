@@ -8,7 +8,7 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 Some topics for the meetup:
 
-- Qubes OS 4.3. [Here](https://www.youtube.com/watch?v=ab48NlZ2WNU) is also a nice overview of the new features! :)
+- Qubes OS 4.3 (Enjoy [this](https://www.youtube.com/watch?v=ab48NlZ2WNU) very nice overview of the new features by deeplow!)
 - Whatever you would like to share and discuss! Bring your own
 
 ![Q](./qubes-logo-grain2.png) uestions!
