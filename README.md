@@ -4,11 +4,11 @@ We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in
 
 # 30.1.2026 Qubes OS meetup
 
-**Next meetup is scheduled for Friday, the 30.1.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
+**Next** meetup is scheduled for Friday, the 30.1.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
 
 Some topics for the meetup:
 
-- TBD
+- Qubes OS 4.3. [Here](https://www.youtube.com/watch?v=ab48NlZ2WNU) is also a nice overview of the new features! :)
 - Whatever you would like to share and discuss! Bring your own
 
 ![Q](./qubes-logo-grain2.png) uestions!
