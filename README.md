@@ -2,13 +2,15 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
-# 27.2.2026 Qubes OS meetup
+# 27.3.2026 Qubes OS meetup
 
-**Next** meetup is scheduled for Friday, the 27.2.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
+**Next** meetup is scheduled for Friday, the 27.3.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
 
-Some topics for the meetup:
+There are no prepared topics for the meetup, suggestions are:
 
-- Qubes OS 4.3 (Enjoy [this](https://www.youtube.com/watch?v=ab48NlZ2WNU) very nice overview of the new features by deeplow!)
+- Qubes OS 4.3
+- Use Cases with Qubes OS
+- Your favourite Qubes OS configurations & customizations
 - Whatever you would like to share and discuss! Bring your own
 
 ![Q](./qubes-logo-grain2.png) uestions!
