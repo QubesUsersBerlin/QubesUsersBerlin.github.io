@@ -2,9 +2,9 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
-# 27.3.2026 Qubes OS meetup
+# 24.4.2026 Qubes OS meetup
 
-**Next** meetup is scheduled for Friday, the 27.3.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
+**Next** meetup is scheduled for Friday, the 24.4.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
 
 There are no prepared topics for the meetup, suggestions are:
 
