@@ -2,20 +2,29 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
-# 24.04.2026 Qubes OS meetup
+# 29.05.2026 Qubes OS meetup
 
-**Next** meetup is scheduled for Friday, the 24.04.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
+**Next** meetup is scheduled for Friday, the 29.05.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
 
-There are no prepared topics for the meetup, suggestions are:
+Excited to announce another hands-on dev session this week!
 
-- Qubes OS 4.3
-- Use Cases with Qubes OS
-- Your favourite Qubes OS configurations & customizations
+Following last month's impromptu session (huge thanks to Ben!), this is your chance to dive into some practical work.
+
+For those new to Qubes development, check out these beginner-friendly issues to begin your contribution journey:
+
+https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22%20no%3Aassignee
+
+Or just come chat about:
+- Qubes OS intro/installation
+- Use cases & workflows
+- Your favourite configurations & customizations
 - Whatever you would like to share and discuss! Bring your own
 
 ![Q](./qubes-logo-grain2.png) uestions!
 
 All creatures welcome! <3
+
+Snacks and great company guaranteed!
 
 Please consult the calendar of x-hain for further information.
 
@@ -28,6 +37,7 @@ In future meetups we want to discuss
 
 
 # Past meetups
+
 
 ## 29.12.2025
 
