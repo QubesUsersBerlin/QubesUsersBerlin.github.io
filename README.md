@@ -10,9 +10,8 @@ Excited to announce another hands-on dev session this week!
 
 Following last month's impromptu session (huge thanks to Ben!), this is your chance to dive into some practical work.
 
-For those new to Qubes development, check out these beginner-friendly issues to begin your contribution journey:
+For those new to Qubes development, check out [these](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22%20no%3Aassignee) beginner-friendly issues to start your contribution journey:
 
-https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22%20no%3Aassignee
 
 Or just come chat about:
 - Qubes OS intro/installation
