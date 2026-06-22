@@ -2,30 +2,33 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
-# 29.05.2026 Qubes OS meetup
+# 26.06.2026 Qubes OS meetup
 
-**Next** meetup is scheduled for Friday, the 29.05.2026 from 6 till 8 p.m. at [x-hain](https://x-hain.de/).
+**Join us on Friday, June 26th, 2026 from 6:00-8:00 PM** at [x-hain](https://x-hain.de/).
 
-Excited to announce another hands-on dev session this week!
+Come enjoy a relaxed and welcoming evening with fellow Qubes enthusiasts with friendly discussions about Qubes OS topics & casual networking with like-minded community members.
 
-Following last month's impromptu session (huge thanks to Ben!), this is your chance to dive into some practical work.
+All topics of interest and your
+![Q](./qubes-logo-grain2.png) uestions are welcome!
 
-For those new to Qubes development, check out [these](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22%20no%3Aassignee) beginner-friendly issues to start your contribution journey:
-
-
-Or just come chat about:
-- Qubes OS intro/installation
-- Use cases & workflows
-- Your favourite configurations & customizations
-- Whatever you would like to share and discuss! Bring your own
-
-![Q](./qubes-logo-grain2.png) uestions!
+Snacks provided (and great company guaranteed!)
 
 All creatures welcome! <3
 
-Snacks and great company guaranteed!
-
 Please consult the calendar of x-hain for further information.
+
+**Recent Meetup Highlights**
+
+We had an amazing session last month with Ben where we dove into some interesting development work
+and had a look over different issues marked as "good first issue" (see below for a link).
+
+One of the issues examined was [#9912](https://github.com/QubesOS/qubes-issues/issues/9912), which led to a detailed discussion about the implementation approach and fundamental questions regarding policy file handling in the GUI editor. For those curious, check the comments in the issue above for more details.
+
+[Corey](https://github.com/coyotebush) also worked on Bluetooth-related notification issues, starting with one he experienced and continuing with a follow-up issue, resulting in 2 PRs to qubes-notification-proxy and 1 upstream PR to blueman.
+
+Huge thanks to Ben, the community members who contributed and all the attendees!! <3
+
+For those new to Qubes development and willing to contribute (all skill levels are welcome - everyone is encouraged to participate), check out [these](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22%20no%3Aassignee) beginner-friendly issues to start your contribution journey!
 
 # Future meetups
 
