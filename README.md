@@ -2,20 +2,18 @@
 
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
-# 31.07.2026 Qubes OS meetup
 
-**Join us on Friday, July 31st, 2026 from 6:00-8:00 PM** at [x-hain](https://x-hain.de/).
+# 28.08.2026 **NO** Qubes OS meetup
 
-Come enjoy a relaxed and welcoming evening with fellow Qubes enthusiasts with friendly discussions about Qubes OS topics & casual networking with like-minded community members.
+Dear people!
 
-All topics of interest and your
-![Q](./qubes-logo-grain2.png) uestions are welcome!
+Qubes OS meetup is taking a short summer break this month!
 
-Snacks provided (and great company guaranteed!)
-
-All creatures welcome! <3
+Enjoy the rest of your Berlin summer and see you all in September <3!
 
 Please consult the calendar of x-hain for further information.
+
+
 
 **Recent Meetup Highlights** (May 2026)
 
