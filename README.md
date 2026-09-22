@@ -3,17 +3,30 @@
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
 
-# 28.08.2026 **NO** Qubes OS meetup
 
-Dear people!
+# 25.09.2026 Qubes OS meetup
 
-Qubes OS meetup is taking a short summer break this month!
+**Join us on Friday, September 25th, 2026 from 6:00-8:00 PM** at [x-hain](https://x-hain.de/).
 
-Enjoy the rest of your Berlin summer and see you all in September <3!
+Come enjoy a relaxed and welcoming evening with fellow Qubes enthusiasts with friendly discussions about Qubes OS topics & casual networking with like-minded community members.
 
-Please consult the calendar of x-hain for further information.
+All topics of interest and your
+![Q](./qubes-logo-grain2.png) uestions are welcome!
+
+Snacks provided (and great company guaranteed!)
+
+All creatures welcome! <3
+
+# Future meetups
+
+In future meetups we want to discuss
+
+- OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
+- Android in Qubes OS cont'd
 
 
+
+# Past meetups
 
 **Recent Meetup Highlights** (May 2026)
 
@@ -27,17 +40,6 @@ One of the issues examined was [#9912](https://github.com/QubesOS/qubes-issues/i
 Huge thanks to Ben, the community members who contributed and all the attendees!! <3
 
 For those new to Qubes development and willing to contribute (all skill levels are welcome - everyone is encouraged to participate), check out [these](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22%20no%3Aassignee) beginner-friendly issues to start your contribution journey!
-
-# Future meetups
-
-In future meetups we want to discuss
-
-- OpSec strategies with Qubes OS - Join us for practical discussion, insights and strategies to safeguard your digital activities!
-- Android in Qubes OS cont'd
-
-
-# Past meetups
-
 
 ## 29.12.2025
 
