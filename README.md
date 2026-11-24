@@ -3,19 +3,9 @@
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
 
-# 05.11.2026 Qubes OS meetup
+# 12.2026 Qubes OS meetup [@40c3 in Hamburg](https://events.ccc.de/congress/2026/infos/index.de/)
 
-**Join us on Thursday, November 5th, 2026 from 6:00-8:00 PM** at [x-hain](https://x-hain.de/).
-
-The weekend before that, from Friday, October 31st till Sunday, November 1st, **Qubes OS Summit** is taking place at Refugio Berlin.
-Check out the [announcement](https://pretix.eu/qubes/summit2026/) and join in person in Berlin or online! ☀️
-
-So, Qubes Users Berlin, let us meet up this time on Thursday, 5.11.2026, 6 days later than usual, and enjoy a relaxed and welcoming evening with fellow Qubes enthusiasts with friendly discussions about Qubes OS (summit) topics.
-
-All topics of interest and your
-![Q](./qubes-logo-grain2.png) uestions are welcome!
-
-Snacks and laptop to try out Qubes OS provided (and great company guaranteed!)
+Details coming between 26 - 28.12.2026 :)
 
 All creatures welcome! <3
 
