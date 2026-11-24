@@ -3,14 +3,14 @@
 We are a group of [Qubes OS](https://www.qubes-os.org) users who meet monthly in Berlin. 
 
 
-# 12.2026 Qubes OS meetup [@40c3 in Hamburg](https://events.ccc.de/congress/2026/infos/index.de/)
+## December 2026 Qubes OS meetup [@40c3 in Hamburg](https://events.ccc.de/congress/2026/infos/index.de/)
 
 Details coming between 26 - 28.12.2026 :)
 
 All creatures welcome! <3
 
 
-# Future meetups
+## Future meetups
 
 In future meetups we want to discuss
 
@@ -19,7 +19,7 @@ In future meetups we want to discuss
 
 
 
-# Past meetups
+## Past meetups
 
 **Recent Meetup Highlights** (May 2026)
 
@@ -34,7 +34,7 @@ Huge thanks to Ben, the community members who contributed and all the attendees!
 
 For those new to Qubes development and willing to contribute (all skill levels are welcome - everyone is encouraged to participate), check out [these](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22%20no%3Aassignee) beginner-friendly issues to start your contribution journey!
 
-## 29.12.2025
+### 29.12.2025
 
 The meetup was led by @marmarek and @marmarta <3 with interesting discussions:
 
@@ -74,7 +74,7 @@ The meetup was led by @marmarek and @marmarta <3 with interesting discussions:
  - General [contributing guidelines](https://doc.qubes-os.org/en/latest/introduction/contributing.html)
 - "modern" suspend (S0ix, s2idle) debugging hint: look at `/sys/kernel/debug/pmc_core/substate_requirements`; enable `s2idle` via `qvm-features dom0 suspend-s0ix 1` and reboot
 
-## 27.6.2025
+### 27.6.2025
 
 
 Some of the topics include:
@@ -96,13 +96,13 @@ and some useful tools like:
   - qubes-policy-editor-gui (dom0)
   - [vim-qrexec plugin](https://github.com/ben-grande/vim-qrexec)
 
-## 27.5.2025
+### 27.5.2025
 
 - Give i3 a try with an example setup 
 
 Sinni talked about their setup with a follow up discussion <3 !
 
-## 25.4.2025
+### 25.4.2025
 
 We did discuss some pretty cool topics: preloaded disposable qubes, salted site-specific browser qubes & Android in Qubes OS:
 
@@ -111,7 +111,7 @@ We did discuss some pretty cool topics: preloaded disposable qubes, salted site-
 3. Discussion & further collaborations on site regarding Android on Qubes OS inspired by the forum [post](https://forum.qubes-os.org/t/use-android-apps-in-qubesos/32971) by norkelcake and bae9e4f7 
 4. GrapheneOS - apart from syncing the repo and building for emulator nothing much :) wip - play with kernel parameters with the notable warning that this disregards security features. GrapheneOS Team has [plans](https://grapheneos.social/@GrapheneOS/113185686714810236) though :)
 
-## 28.3.2025
+### 28.3.2025
 
 We looked at some Salt and Android use cases in Qubes OS:
 
@@ -120,7 +120,7 @@ We looked at some Salt and Android use cases in Qubes OS:
 - Android Use Cases in Qubes OS
   - We continued the engaging discussion from our last meetup. snorkelcake and bae9e4f7 wrote a guide for how to setup an android qube which is available on the [forum](https://forum.qubes-os.org/t/use-android-apps-in-qubesos/32971).
 
-# Monthly meetings
+## Monthly meetings
 
 **Qubes Users Berlin monthly meetings are currently every last Friday of each month!**
 
@@ -137,7 +137,7 @@ Stay tuned!
 
 ## Mailing list
 
-You are welcome to join our [mailing list](https://www.autistici.org/mailman/listinfo/qub), where we announce meetings and discuss items.
+You are welcome to join our [mailing list](https://lists.riseup.net/www/info/qub), where we announce meetings and discuss items.
 
 ## Social media
 
